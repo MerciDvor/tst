@@ -1,0 +1,11 @@
+{
+  "owner": "404852972154257411",
+  "clientId": "930444732453232682",
+  "guildId": "1033543478501724190",
+  "guildMonitor": {
+    "enabled": true,
+    "guild": "Spirits Of War",
+    "interval": 3600000,
+    "channel": "1033574688384897065"
+  }
+}
